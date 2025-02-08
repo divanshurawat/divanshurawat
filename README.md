@@ -40,10 +40,10 @@ I'm a **MERN stack developer** with a strong foundation in **frontend and backen
 
 ## 📫 Let's Connect!
 - **LinkedIn:** [Divanshu Rawat](https://www.linkedin.com/in/divanshu-rawat-987995229/)
-- **Codolio:** [divanshurawat](https://github.com/divanshurawat](https://codolio.com/profile/divanshurawat))
+- **Codolio:** [divanshurawat](https://codolio.com/profile/divanshurawat)
 - **LeetCode:** [divanshurawat64](https://leetcode.com/u/divanshurawat64/)
 - **Email:** divanshurawat64@gmail.com
-- **Resume:** [Download Here](https://drive.google.com/file/d/1fN17coLqvftTgNQU1mOGzSd1HJYUmaN6/view?usp=sharing](https://drive.google.com/file/d/1pv99cAWMv58l_q9FXAXlXwGTEcuu7bo1/view?usp=sharing))
+- **Resume:** [Download Here]([https://drive.google.com/file/d/1fN17coLqvftTgNQU1mOGzSd1HJYUmaN6/view?usp=sharing](https://drive.google.com/file/d/1pv99cAWMv58l_q9FXAXlXwGTEcuu7bo1/view?usp=sharing)](https://drive.google.com/file/d/1pv99cAWMv58l_q9FXAXlXwGTEcuu7bo1/view?usp=sharing))
 
 ---
 
