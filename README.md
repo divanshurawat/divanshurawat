@@ -43,7 +43,7 @@ I'm a **MERN stack developer** with a strong foundation in **frontend and backen
 - **Codolio:** [divanshurawat](https://codolio.com/profile/divanshurawat)
 - **LeetCode:** [divanshurawat64](https://leetcode.com/u/divanshurawat64/)
 - **Email:** divanshurawat64@gmail.com
-- **Resume:** [Download Here](https://drive.google.com/file/d/1Epielcorrkt_bEl6htobM2VEHDDynZGT/view?usp=drive_link)
+- **Resume:** [Download Here]([https://drive.google.com/file/d/1Epielcorrkt_bEl6htobM2VEHDDynZGT/view?usp=drive_link](https://drive.google.com/file/d/1gaAXwQlzTPu8w1SIC1a1KvtYdEyMgJul/view?usp=sharing))
 
 ---
 
