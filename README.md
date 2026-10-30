@@ -1,8 +1,8 @@
 # Hi there, I'm Divanshu Rawat! 👋
 
-🚀 **MERN Stack Developer | Problem Solver | Tech Enthusiast**
+🚀 **.Net Developer | Problem Solver | Tech Enthusiast**
 
-I'm a **MERN stack developer** with a strong foundation in **frontend and backend technologies**. I specialize in building scalable and efficient web applications using modern frameworks and libraries. Additionally, I am a **competitive programmer**, actively solving **Data Structures and Algorithms (DSA)** problems in **C++**.
+Full-stack .NET Developer with 1.5 years of industry experience designing and deploying robust backend architectures and clean web applications. Specialized in C#, ASP.NET Core Web API, and relational data modeling, backed by a strong competitive programming track record solving complex DSA problems in C++. Passionate about writing clean, maintainable code and optimizing system performance.
 
 ---
 
@@ -15,10 +15,9 @@ I'm a **MERN stack developer** with a strong foundation in **frontend and backen
 - **Responsive Web Design**
 
 ### 🛠️ Backend Development
-- **Node.js, Express.js**
+- **ASP.net core**
 - **RESTful APIs, Microservices**
 - **Socket.IO, WebSockets** (real-time communication)
-- **Redis** (caching, message queues)
 - **High-Level System Design**
 
 ### 🗄️ Database & Storage
@@ -32,7 +31,7 @@ I'm a **MERN stack developer** with a strong foundation in **frontend and backen
 
 
 ## 📈 Competitive Programming
-- **1200+ DSA problems solved** on **LeetCode, GFG, and other platforms**.
+- **2000+ DSA problems solved** on **LeetCode, GFG, and other platforms**.
 - **LeetCode Contest Rating:** **1767 (max)**
 - **World Rank 2738/30,000+** in LeetCode Weekly Contest 429 (Top **9% globally**).
 
@@ -43,7 +42,7 @@ I'm a **MERN stack developer** with a strong foundation in **frontend and backen
 - **Codolio:** [divanshurawat](https://codolio.com/profile/divanshurawat)
 - **LeetCode:** [divanshurawat64](https://leetcode.com/u/divanshurawat64/)
 - **Email:** divanshurawat64@gmail.com
-- **Resume:** [Download Here]([https://drive.google.com/file/d/1Epielcorrkt_bEl6htobM2VEHDDynZGT/view?usp=drive_link](https://drive.google.com/file/d/1gaAXwQlzTPu8w1SIC1a1KvtYdEyMgJul/view?usp=sharing))
+- **Resume:** [Download Here]([[https://drive.google.com/file/d/1Epielcorrkt_bEl6htobM2VEHDDynZGT/view?usp=drive_link](https://drive.google.com/file/d/1gaAXwQlzTPu8w1SIC1a1KvtYdEyMgJul/view?usp=sharing)](https://drive.google.com/file/d/1dya3x-8A_6Ql0Y-OoOO5AQKWx0rYH691/view?usp=sharing))
 
 ---
 
