@@ -15,7 +15,7 @@ Full-stack .NET Developer with 1.5 years of industry experience designing and de
 - **Responsive Web Design**
 
 ### 🛠️ Backend Development
-- **ASP.net core**
+- **ASP.net core, LINQ, EFCore**
 - **RESTful APIs, Microservices**
 - **Socket.IO, WebSockets** (real-time communication)
 - **High-Level System Design**
